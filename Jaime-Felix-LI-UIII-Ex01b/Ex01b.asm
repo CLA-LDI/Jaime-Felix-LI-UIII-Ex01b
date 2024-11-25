@@ -132,7 +132,7 @@ Ciclo:
 
 				; Marco de pila. Eliminar variable local
 				
-				; Marco de pila. Restaurar el registro EBP
+				; Marco de pila. Restaurar el registro RBP
 
 				; Marco de pila. Sacar dirección de retorno y argumentos
 				RET
